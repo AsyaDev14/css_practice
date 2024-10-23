@@ -16,12 +16,6 @@ body {
   display: grid;
 }
 
-@media screen and (width >= 750px) {
-  .people {
-    grid-template-columns: 1fr 1fr 1fr;
-  }
-}
-
 @media screen and (width >= 1000px) {
   .people {
     grid-template-columns: 1fr 1fr 1fr 1fr;
