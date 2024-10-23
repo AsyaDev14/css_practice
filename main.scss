@@ -26,12 +26,6 @@ $bg-colorHover: #eeeeee;
   padding: 30px 35px;
 }
 
-@media screen and (min-width: 750px) {
-  .people {
-    grid-template-columns: 1fr 1fr 1fr;
-  }
-}
-
 @media screen and (min-width: 1000px) {
   .people {
     grid-template-columns: 1fr 1fr 1fr 1fr;
